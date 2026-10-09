@@ -1,5 +1,7 @@
 # Azure Security Baseline
 
+[![CI](https://github.com/adankhalid0/azure-security-baseline/actions/workflows/ci.yml/badge.svg)](https://github.com/adankhalid0/azure-security-baseline/actions/workflows/ci.yml)
+
 A Terraform baseline for securing a fresh Azure subscription: central logging,
 audit-mode policy, least-privilege access, optional Defender for Cloud plans and
 a cost guardrail. It is the Azure counterpart to my
